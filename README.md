@@ -162,7 +162,7 @@ Enterprise-Network-Configuration-Lab/
 
 The complete Cisco Packet Tracer network simulation is available below:
 
-[Download Enterprise-Network-Configuration.pkt](Packet-Tracer/Enterprise-Network-Configuration.pkt)
+[Download Enterprise-Network-Configuration.pkt](packet-tracer/Enterprise-Network-Configuration.pkt)
 
 ---
 
