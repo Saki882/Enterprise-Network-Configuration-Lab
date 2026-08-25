@@ -50,7 +50,7 @@ The user site is divided into three VLANs:
 
 Trunk links connect the access switches to the distribution-layer switches and carry multiple VLANs.
 
-![Trunk Configuration](Screenshots/Trunk-Configuration.png)
+![Trunk Configuration](Screenshots/Trunk-Configuraion.png)
 
 ---
 
